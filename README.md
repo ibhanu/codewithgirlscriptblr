@@ -16,9 +16,9 @@ If you are interested in contributing to this program follow the guidelines ment
 
 ## Table of Contents
 
-- [Beginner Level of problems.](https://github.com/ibhanu/codewithgirlscriptblr/blob/master/Easy/README.md)
-- [Intermediate level of problems.](https://github.com/ibhanu/codewithgirlscriptblr/blob/master/Medium/README.md)
-- [Advance level of problems.](https://github.com/ibhanu/codewithgirlscriptblr/blob/master/Hard/README.md)
+- [Beginner Level of problems.](Easy/EREADME.md)
+- [Intermediate level of problems.](Medium/README.md)
+- [Advance level of problems.](Hard/README.md)
 
 ---
 
@@ -38,7 +38,7 @@ If you are interested in contributing to this program follow the guidelines ment
 
 ## Note
 
-If you are interested in contributing to this program follow the guidelines mentioned in [Contribution.MD](https://github.com/ibhanu/codewithgirlscriptblr/blob/master/CONTRIBUTING.md) file and take your step in the open-source world.
+If you are interested in contributing to this program follow the guidelines mentioned in [Contribution.MD](CONTRIBUTING.md) file and take your step in the open-source world.
 
 ---
 

@@ -7,7 +7,7 @@ When contributing to this repository, please discuss the queries you have via is
 
 ## Getting Started
 
-Go to the project repo and fork it. And then go through the [README.md](https://github.com/ibhanu/codewithgirlscriptblr/blob/master/README.md) file which has all the instructions to set-up and begin the contribution.
+Go to the project repo and fork it. And then go through the [README.md](README.md) file which has all the instructions to set-up and begin the contribution.
 
 ## Starting Development
 
