@@ -20,10 +20,12 @@ Check the problem statement that you wish to work on and start working on it.
 ### Cloning the Forked Repo
 
 - Clone the forked repo using the command:
+
   `bash git clone https://github.com/<your-username>/codewithgirlscriptblr`
 
 - Creating a new branch
   Before you start making the changes, create a new branch using the following command:
+
   `git checkout -b <your-branch-name>`
 
   > One must follow proper naming conventions. The branch name should be relevant to the problem statement or their solution. In other words branch name should be meaningful.
