@@ -78,7 +78,7 @@ Output will be a bill based on the given input. The bill can be in any format bu
 
 ## How to submit solution?
 
-Follow the steps mentioned in [this](../../CONTRIBUTION.md) file to submit your solution.
+Follow the steps mentioned in [this](../../CONTRIBUTING.md) file to submit your solution.
 
 ## Stuck somewhere?
 

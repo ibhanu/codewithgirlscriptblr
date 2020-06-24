@@ -16,7 +16,7 @@ If you are interested in contributing to this program follow the guidelines ment
 
 ## Table of Contents
 
-- [Beginner Level of problems.](Easy/EREADME.md)
+- [Beginner Level of problems.](Easy/README.md)
 - [Intermediate level of problems.](Medium/README.md)
 - [Advance level of problems.](Hard/README.md)
 

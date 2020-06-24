@@ -221,7 +221,7 @@ Same as above.
 
 ## How to submit solution?
 
-Follow the steps mentioned in [this](../../CONTRIBUTION.md) file to submit your solution.
+Follow the steps mentioned in [this](../../CONTRIBUTING.md) file to submit your solution.
 
 ## Stuck somewhere?
 
