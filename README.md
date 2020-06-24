@@ -1,10 +1,8 @@
 # Code with GirlScript Bangalore
 
-=========
+---
 
 ## About the program
-
-=========
 
 Thanks for taking interest in **CodeWithGirlscript**. The main aim of this program is to help the participants explore the Open Source world and take a step towards contributing to it.
 
@@ -14,17 +12,17 @@ We have a wide range of problems(easy, medium, hard) for you to contribute. Our 
 
 If you are interested in contributing to this program follow the guidelines mentioned in Contribution.MD file and take your step in the open-source world.
 
-## Table of Contents
+---
 
-=========
+## Table of Contents
 
 - [Beginner Level of problems.](https://github.com/ibhanu/codewithgirlscriptblr/blob/master/Easy/README.md)
 - [Intermediate level of problems.](https://github.com/ibhanu/codewithgirlscriptblr/blob/master/Medium/README.md)
 - [Advance level of problems.](https://github.com/ibhanu/codewithgirlscriptblr/blob/master/Hard/README.md)
 
-## Guidelines
+---
 
-=========
+## Guidelines
 
 - A time limit for each problem will be given alongside the problem statement. Try to submit your code within the given time for your contribution to get accepted.
 - Late submissions will not be accepted at any chance.
@@ -36,9 +34,13 @@ If you are interested in contributing to this program follow the guidelines ment
 - Contributors who complete all the levels in less time will be eligible for getting the pull requests reviewed.
 - Questions will be available for all levels(easy, medium, hard). You can choose the questions as per your coding level and interests.
 
+---
+
 ## Note
 
 If you are interested in contributing to this program follow the guidelines mentioned in [Contribution.MD] file and take your step in the open-source world.
+
+---
 
 ## Resources
 
