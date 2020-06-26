@@ -70,150 +70,27 @@ The app has to generate a bill accordingly containing all the details provided b
 
 - The customer should enter the order ID and the app should return the bill (as in ‘create order’) along with the order status.
 
-### Inputs
+### Vendor Inputs & Output
 
-Input can be in any format or variation but it must include the following.
+Input & output can be in any format or variation but it must include the following.
 
-#### Vendor - Add shopping category
+| Sl. No. | Feature                    | Input                                                                                                                                                                                                        | Output                                                                                                                                                                                                      |
+| ------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1.**  | **Add shopping category**  | - Name                                                                                                                                                                                                       | The added shopping category:<br><br>- Name<br>- Category ID                                                                                                                                                 |
+| **2.**  | **Add shopping item**      | - Name<br>- Original price<br>- Discount price<br>- Weight<br>- Category ID                                                                                                                                  | The added shopping item: <br><br>- Name<br>- Original price<br>- Discount price<br>- Weight<br>- Category ID                                                                                                |
+| **3.**  | **List shopping item**     | All the filtering & sorting parameters for listing shopping items. The vendor may or may not select these parameters.<br><br>- Name<br>- Original price<br>- Discount price<br>- Weight<br>- Category ID     | A list of shopping items with the following parameters<br><br>- Name<br>- Original price<br>- Discount price<br>- Weight<br>- Category ID                                                                   |
+| **4.**  | **List shopping category** | All the filtering & sorting parameters for listing shopping categories. The vendor may or may not select these parameters.<br><br>- Name                                                                     | A list of shopping categories with the following parameters<br><br>- Name<br>- Category ID                                                                                                                  |
+| **5.**  | **List orders**            | All the filtering & sorting parameters for listing orders. The vendor may or may not select these parameters.<br><br>- Order ID<br>- Order status<br>- Billing date <br>- Total amount <br>- Delivery option | A list of orders with the following parameter<br><br><br>- Order ID<br>- Order status<br>- Billing date <br>- Total amount <br>- Delivery option<br>- Order status (‘in progress’, ‘completed’, ‘canceled’) |
+| **6.**  | **Change order status**    | - Order ID<br>- New status (‘in progress’, ‘completed’, ‘canceled’)                                                                                                                                          | The added order:<br><br>- Order ID<br>- Order status<br>- Billing date <br>- Total amount <br>- Delivery option<br>- Order status (‘in progress’, ‘completed’, ‘canceled’)                                  |
 
-- Name
+### Customer Inputs & Output
 
-#### Vendor - Add shopping item
+Input & output can be in any format or variation but it must include the following.
 
-- Name
-- Original price
-- Discount price
-- Weight
-- Category ID
-
-#### Vendor - Change order status
-
-- Order ID
-- New status (‘in progress’, ‘completed’, ‘canceled’)
-
-#### Vendor - List shopping category
-
-All the filtering & sorting parameters for listing categories. The vendor may or maynot select these parameters.
-
-- Name
-
-#### Vendor - List shopping item
-
-All the filtering & sorting parameters for listing shopping items. The vendor may or maynot select these parameters.
-
-- Name
-- Original price
-- Discount price
-- Weight
-- Category ID
-
-#### Vendor - List orders
-
-All the filtering & sorting parameters for listing orders. The vendor may or maynot select these parameters.
-
-- Order ID
-- Order status
-- Billing date
-- Total amount
-- Delivery option
-
-#### Customer - Create order
-
-- Name
-- Phone no
-- Payment method (cash/card/online)
-- Selected items and it's quantity
-- Takeaway / Home delivery
-- Distance from shop to the delivery address in KM. (if Home delivery is selected)
-
-#### Customer - Check order status
-
-- Order id
-
-### Output
-
-Output will be a bill based on the given input. The bill can be in any format but it must include the following
-
-#### Vendor - Add shopping category
-
-After adding the shopping category, the app should display the added category.
-
-- Name
-- Category ID
-
-#### Vendor - Add shopping item
-
-After adding the shopping item, the app should display the added item.
-
-- Name
-- Original price
-- Discount price
-- Weight
-- Category ID
-
-#### Vendor - Change order status
-
-After changing the order status, the app should display the following parameters of the order.
-
-- Order ID
-- Customer name
-- Billing date & time
-- Total amount
-- Delivery option
-- New status (‘in progress’, ‘completed’, ‘canceled’)
-
-#### Vendor - List shopping category
-
-The list should include all the categories with all the parameters of shopping category.
-
-- Name
-- Category ID
-
-#### Vendor - List shopping item
-
-The list should include all the items with all the parameters of shopping item.
-
-- Name
-- Original price
-- Discount price
-- Weight
-- Category ID
-
-#### Vendor - List orders
-
-The list should include all the orders with all the parameters of the order.
-
-- Order ID
-- Order status
-- Billing date
-- Total amount
-- Delivery option
-- Order status (‘in progress’, ‘completed’, ‘canceled’)
-
-#### Customer - Create order/check order status
-
-##### Static data
-
-- Shop name: `Gadget Guru`
-- Shop address: `311/5 Akshay nagar, Bangalore, Karnataka, India`
-- Shop contact no: `+91 7849626879`
-
-##### Variable data
-
-- Customer name
-- Customer phone no
-- Items bought, it's quantity, price & discount price
-- Total tax
-- Total shipping charge
-- Total amount saved
-- Sum amount to be paid
-- Payment method used
-- Billing date and time
-- Order status
-
-#### Customer - Check order status
-
-Same as above.
+| Sl. No. | Feature                | Input                                                                                                                                                                                                                   | Output                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1.**  | **Create order**       | - Name <br>- Phone no<br>- Payment method (cash/card/online)<br>- Selected items and it's quantity <br>- Takeaway / Home delivery<br>- Distance from shop to the delivery address in KM. (if Home delivery is selected) | A generated bill which contains the following.<br><br>Static data<br>- Shop name: `Gadget Guru`<br>- Shop address: `311/5 Akshay nagar, Bangalore, Karnataka, India`<br>- Shop contact no: `+91 7849626879`<br><br>Variable data<br>- Customer name<br>- Customer phone no<br>- Items bought, it's quantity, price & discount price<br>- Total tax<br>- Total shipping charge<br>- Total amount saved<br>- Sum amount to be paid<br>- Payment method used<br>- Billing date and time<br>- Order status |
+| **2.**  | **Check order status** | - Order ID                                                                                                                                                                                                              | Same as above                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## Requirements for submission
 

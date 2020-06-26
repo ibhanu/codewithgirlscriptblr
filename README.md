@@ -38,7 +38,7 @@ If you are interested in contributing to this program follow the guidelines ment
 
 ## Note
 
-If you are interested in contributing to this program follow the guidelines mentioned in [Contribution.MD](CONTRIBUTING.md) file and take your step in the open-source world.
+If you are interested in contributing to this program follow the guidelines mentioned in [Contributing](CONTRIBUTING.md) file and take your step in the open-source world.
 
 ---
 
