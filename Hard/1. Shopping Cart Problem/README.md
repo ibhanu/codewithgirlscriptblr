@@ -2,9 +2,20 @@
 
 > Date : 1st July 2020
 
+## Prerequisites
+- Basic input output of strings and numbers.
+- Nested conditional statements.
+- One of `Class`/`Object`/`Dictionary`/`Map` to store shopping items. (Depends on the language you are using)
+- Creating, displaying & manipulating arrays.
+- Array sorting & filtering.
+- Basic calculation.
+- Getting the current date & time and displaying it in human readable form.
+- Reading and writing data to permanent storage. (files, database, etc)
+- Complex user interface for implementing different modes and features.
+
 ## Problem Statement
 
-In this section, ‘Gadget Guru’ features two exclusive modes:
+In this section, `GadgetifyWithGSBlr` features two exclusive modes:
 
 1. ‘Vendor mode’ which allows the admin to perform various tasks like adding shopping items, viewing and filtering customer’s orders and changing the status of the orders.
 
@@ -45,6 +56,7 @@ The app has to generate a bill accordingly containing all the details provided b
     `For Example, the user can select 3 basshead earphones & 2 bluetooth computer mouse`
   - Takeaway / Home delivery
   - Distance from shop to the delivery address in KM. (if Home delivery is selected)
+  - Shipping Address
 - The shopping items should be displayed category wise.
 - While listing the shopping items, the application should display the original price, discount price, and the amount saved by the user if he/she buys that product.
 - The shop doesn’t provide home delivery to addresses more than 50KM away. If the user selects more than 50KM, an appropriate message should be displayed.
@@ -57,7 +69,7 @@ The app has to generate a bill accordingly containing all the details provided b
   | <= 50 KM | Rs. 60 |
   | > 50 KM | No delivery |
 - The bill should show the total amount saved by the user if he/she bought any discount products.
-- The bill should contain all the other details provided by the user.
+- The bill should contain all the details provided by the user.
 - The bill should contain the shop details as well as the billing date and time.
 - Each order should have a unique ‘Order ID’ such that the user can use to check the status.
 - The default status of the order should be ‘in progress’
@@ -86,7 +98,7 @@ Input & output can be in any format or variation but it must include the followi
 
 | Sl. No. | Feature                | Input                                                                                                                                                                                                                   | Output                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1.**  | **Create order**       | - Name <br>- Phone no<br>- Payment method (cash/card/online)<br>- Selected items and it's quantity <br>- Takeaway / Home delivery<br>- Distance from shop to the delivery address in KM. (if Home delivery is selected) | A generated bill which contains the following.<br><br>Static data<br>- Shop name: `Gadget Guru`<br>- Shop address: `311/5 Akshay nagar, Bangalore, Karnataka, India`<br>- Shop contact no: `+91 7849626879`<br><br>Variable data<br>- Customer name<br>- Customer phone no<br>- Items bought, it's quantity, price & discount price<br>- Total tax<br>- Total shipping charge<br>- Total amount saved<br>- Sum amount to be paid<br>- Payment method used<br>- Billing date and time<br>- Order status |
+| **1.**  | **Create order**       | - Name <br>- Phone no<br>- Payment method (cash/card/online)<br>- Selected items and it's quantity <br>- Takeaway / Home delivery<br>- Distance from shop to the delivery address in KM. (if Home delivery is selected)<br>- Shipping Address | A generated bill which contains the following.<br><br>Static data<br>- Shop name: `GadgetifyWithGSBlr`<br>- Shop address: `311/5 Akshay nagar, Bangalore, Karnataka, India`<br>- Shop contact no: `+91 9988776655`<br><br>Variable data<br>- Customer name<br>- Customer phone no<br>- Items bought, it's quantity, price & discount price<br>- Total tax<br>- Total shipping charge<br>- Total amount saved<br>- Sum amount to be paid<br>- Payment method used<br>- Billing date and time<br>- Shipping Address<br>- Order status |
 | **2.**  | **Check order status** | - Order ID                                                                                                                                                                                                              | Same as above                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## Requirements for submission
