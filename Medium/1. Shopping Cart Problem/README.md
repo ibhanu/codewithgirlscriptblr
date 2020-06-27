@@ -31,7 +31,7 @@ In this section, `GadgetifyWithGSBlr` allows the customer to enter details as pe
     `For Example, the user can select 3 basshead earphones & 2 bluetooth computer mouse`
   - Takeaway / Home delivery
   - Distance from shop to the delivery address in KM. (if Home delivery is selected)
-  - Shipping address
+  - Shipping address (if Home delivery is selected)
 - The shop doesn’t provide home delivery to addresses more than 50KM away. If the user selects more than 50KM, an appropriate message should be displayed.
 - While listing the shopping items, the application should display the original price, discount price, and the amount saved by the user if he/she buys that product.
 - The app should generate a bill for the selected item, including a 6% tax on the total amount.
@@ -56,7 +56,7 @@ Input can be in any format or variation but it must include the following.
 - Selected items and it's quantity
 - Takeaway / Home delivery
 - Distance from shop to the delivery address in KM. (if Home delivery is selected)
-- Shipping Address
+- Shipping Address (if Home delivery is selected)
 
 ### Output
 
@@ -74,12 +74,12 @@ Output will be a bill based on the given input. The bill can be in any format bu
 - Customer phone no
 - Items bought, it's quantity, price & discount price
 - Total tax
-- Total shipping charge
+- Total shipping charge (if Home delivery is selected)
 - Total amount saved
 - Sum amount to be paid
 - Payment method used
 - Billing date and time
-- Shipping Address
+- Shipping Address (if Home delivery is selected)
 
 ## Requirements for submission
 
