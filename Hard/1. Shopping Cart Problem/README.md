@@ -2,9 +2,6 @@
 
 > Date : 1st July 2020
 
-Kudos to you! We have an exciting problem that will make you a true Ninja!
-Proceed with this section only on completing the [Easy](../../Easy/1.%20Shopping%20Cart%20Problem/README.md) and [Hard](../../Hard/1.%20Shopping%20Cart%20Problem/README.md) section.
-
 ## Problem Statement
 
 In this section, ‘Gadget Guru’ features two exclusive modes:
