@@ -1,6 +1,6 @@
 # Shopping Cart Problem - Hard
 
-> Date : Jun 21' 2020
+> Date : 1st July 2020
 
 Kudos to you! We have an exciting problem that will make you a true Ninja!
 Proceed with this section only on completing the [Easy](../../Easy/1.%20Shopping%20Cart%20Problem/README.md) and [Hard](../../Hard/1.%20Shopping%20Cart%20Problem/README.md) section.
@@ -94,7 +94,7 @@ Input & output can be in any format or variation but it must include the followi
 
 ## Requirements for submission
 
-- Last Submission Date : Jul 02' 2020
+- Last Submission Date : `30th July 2020`
 
 ## How to submit solution?
 
