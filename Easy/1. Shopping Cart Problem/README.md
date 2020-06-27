@@ -4,7 +4,7 @@
 
 ## Prerequisites
 - Basic input output of strings and numbers.
-- One of Class/Object/Dictionary to store shopping items. (Depends on the language you are using)
+- One of `Class`/`Object`/`Dictionary`/`Map` to store shopping items. (Depends on the language you are using)
 - Creating and displaying arrays.
 - Basic calculation.
 - Getting the current date & time and displaying it in human readable form.
