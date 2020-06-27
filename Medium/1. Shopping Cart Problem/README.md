@@ -1,8 +1,6 @@
 # Shopping Cart Problem - Medium
 
-> Date : Jun 21' 2020
-
-Congrats on making the easy section!! If you haven’t solved the [easy problem](../../Easy/1.%20Shopping%20Cart%20Problem/README.md), solve it first and then proceed to this section :)
+> Date : 1st July 2020
 
 ## Problem Statement
 
@@ -74,7 +72,7 @@ Output will be a bill based on the given input. The bill can be in any format bu
 
 ## Requirements for submission
 
-- Last Submission Date : Jul 02' 2020
+- Last Submission Date : `30th July 2020`
 
 ## How to submit solution?
 
