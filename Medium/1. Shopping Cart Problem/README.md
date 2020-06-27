@@ -2,9 +2,17 @@
 
 > Date : 1st July 2020
 
+## Prerequisites
+- Basic input output of strings and numbers.
+- Basic conditional statements.
+- One of `Class`/`Object`/`Dictionary`/`Map` to store shopping items. (Depends on the language you are using)
+- Creating, displaying & manipulating arrays.
+- Basic calculation.
+- Getting the current date & time and displaying it in human readable form.
+
 ## Problem Statement
 
-In this section, ‘Gadget Guru’ allows the customer to enter details as per the input specified. An additional parameter(distance) is added in this section that has to be taken into account for calculating the delivery charges. The app has to generate a bill accordingly containing all the details provided by the user and the total amount.
+In this section, `GadgetifyWithGSBlr` allows the customer to enter details as per the input specified. An additional parameter(distance) is added in this section that has to be taken into account for calculating the delivery charges. The app has to generate a bill accordingly containing all the details provided by the user and the total amount.
 
 - There should be a static list of shopping items along with their name, original price, discount price (if any), and weight in grams. (Total items >= 5, Discount items >=2)
 
@@ -23,6 +31,7 @@ In this section, ‘Gadget Guru’ allows the customer to enter details as per t
     `For Example, the user can select 3 basshead earphones & 2 bluetooth computer mouse`
   - Takeaway / Home delivery
   - Distance from shop to the delivery address in KM. (if Home delivery is selected)
+  - Shipping address
 - The shop doesn’t provide home delivery to addresses more than 50KM away. If the user selects more than 50KM, an appropriate message should be displayed.
 - While listing the shopping items, the application should display the original price, discount price, and the amount saved by the user if he/she buys that product.
 - The app should generate a bill for the selected item, including a 6% tax on the total amount.
@@ -34,7 +43,7 @@ In this section, ‘Gadget Guru’ allows the customer to enter details as per t
   | <= 50 KM | Rs. 60 |
   | > 50 KM | No delivery |
 - The bill should show the total amount saved by the user if he/she bought any discount products.
-- The bill should contain all the other details provided by the user.
+- The bill should contain all the details provided by the user.
 - The bill should contain the shop details as well as the billing date and time.
 
 ### Inputs
@@ -47,6 +56,7 @@ Input can be in any format or variation but it must include the following.
 - Selected items and it's quantity
 - Takeaway / Home delivery
 - Distance from shop to the delivery address in KM. (if Home delivery is selected)
+- Shipping Address
 
 ### Output
 
@@ -54,9 +64,9 @@ Output will be a bill based on the given input. The bill can be in any format bu
 
 #### Static data
 
-- Shop name: `Gadget Guru`
+- Shop name: `GadgetifyWithGSBlr`
 - Shop address: `311/5 Akshay nagar, Bangalore, Karnataka, India`
-- Shop contact no: `+91 7849626879`
+- Shop contact no: `+91 9988776655`
 
 #### Variable data
 
@@ -69,6 +79,7 @@ Output will be a bill based on the given input. The bill can be in any format bu
 - Sum amount to be paid
 - Payment method used
 - Billing date and time
+- Shipping Address
 
 ## Requirements for submission
 
