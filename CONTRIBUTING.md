@@ -43,6 +43,8 @@
 
   ![Pull Request](assets/images/pr.png)
 
+  ![Pull Request and Compare](assets/images/pr_compare.png)
+
 - **PR Review**: Once you have created the PR, it will be reviewed soon by the maintainers of the repository -
 
   - [Yajushi Srivastava](https://github.com/yajushiSri)
