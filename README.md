@@ -12,7 +12,7 @@ If you are starting your journey in Free and Open Source Software Development, t
 
 We have a wide range of problems from easy, medium, and hard levels for you to solve. The problem statements are independent of any technology stacks, so you can focus on the underlying concepts. 
 
-Follow the guidelines mentioned in [Contributing.MD](CONTRIBUTING.md) file, and "Let's Code for Freedom".
+Follow the guidelines mentioned in [CONTRIBUTING.md](CONTRIBUTING.md) file, and "Let's Code for Freedom".
 
 
 ## Table of Contents
