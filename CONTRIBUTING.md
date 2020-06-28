@@ -24,7 +24,9 @@ Image will be added soon
 
 - **Update the changes to repo**: Add your solution in the new branch. The solution must be in a specified format. Your code should be inside the SOLUTIONS folder of the respective problem statement. The codes/files should be inside a single folder following specific naming convention. The folder name should be your name.
 - Root Folder
-  - Problem Statement - Solutions - `<Your solution file>`
+  - Problem Statement
+    - Solutions
+      - `<Your solution file>`
 - To add the file(s) , use the command
 
   `git add .`
