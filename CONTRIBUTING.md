@@ -23,10 +23,10 @@ Image will be added soon
   - **Example**: If you want to create a pull request in the Shopping Cart Problem - Easy, your branch name can be ‘<your name>\_ShoppingCartEasy’.
 
 - **Update the changes to repo**: Add your solution in the new branch. The solution must be in a specified format. Your code should be inside the SOLUTIONS folder of the respective problem statement. The codes/files should be inside a single folder following specific naming convention. The folder name should be your name.
-- Root Folder
-  - Problem Statement
-    - Solutions
-      - `<Your solution file>`
+  - Root Folder
+    - Problem Statement
+      - Solutions
+        - `<Your solution file>`
 - To add the file(s) , use the command
 
   `git add .`
