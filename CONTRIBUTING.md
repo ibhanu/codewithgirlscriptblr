@@ -46,14 +46,12 @@ Image will be added soon
   - [Yati Padia](https://github.com/yati1998)
   - [Irshad Ansari](https://github.com/irshadjsr21)
 
-    If there are any changes suggested by the reviewers, do make the same and follow to steps to update:
-    commit the changes, using command: `git commit -m 'Commit Message'`.
+  If there are any changes suggested by the reviewers, do make the same and follow to steps to update:
 
-    rebase the branch, using command: `git rebase master`.
-
-    squash the commits, using command: `git stash`.
-
-    push the changes, using command: `git push origin <your-branch-name>`.
+  - commit the changes, using command: `git commit -m 'Commit Message'`.
+  - rebase the branch, using command: `git rebase master`.
+  - squash the commits, using command: `git stash`.
+  - push the changes, using command: `git push origin <your-branch-name>`.
 
 The PR with correct and optimised solution, which satisfies the deadline criteria, will be merged soon😄
 
