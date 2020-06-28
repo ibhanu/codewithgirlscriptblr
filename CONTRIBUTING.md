@@ -41,6 +41,8 @@
 
   For GitHub web, simply move over to the original repository and click on New Pull Request and compare forked repositories. Provide appropriate description and VOILA!
 
+  [!Pull Request](assets/images/pr.png)
+
 - **PR Review**: Once you have created the PR, it will be reviewed soon by the maintainers of the repository -
 
   - [Yajushi Srivastava](https://github.com/yajushiSri)
