@@ -27,7 +27,7 @@ Image will be added soon
     - Problem Statement
       - Solutions
         - `<Your solution file>`
-- To add the file(s) , use the command
+- **To add the file(s)** , use the following CLI command
 
   `git add .`
 
@@ -41,7 +41,7 @@ Image will be added soon
 
   For GitHub web, simply move over to the original repository and click on New Pull Request and compare forked repositories. Provide appropriate description and VOILA!
 
-- PR Review: Once you have created the PR, it will be reviewed soon by the maintainers of the repository -
+- **PR Review**: Once you have created the PR, it will be reviewed soon by the maintainers of the repository -
 
   - [Yajushi Srivastava](https://github.com/yajushiSri)
   - [Bhanu Pratap](https://github.com/ibhanu)
@@ -65,7 +65,7 @@ To know more about the program and it's guidelines do check [README.md](README.m
 
 A gentle reminder if you still haven’t filled our [participation form](https://tinyurl.com/codewithgsblr) 📃, fill it now😀.
 
-Also,we love your input! We want to make contributing to this project as easy and transparent as possible. When contributing to this repository, please discuss the queries you have via issue or [email](girlscriptblr@gmail.com), with the maintainers of this repository to successfully complete the tasks.
+Also,we love your input! We want to make contributing to this project as easy and transparent as possible. When contributing to this repository, please discuss the queries you have via issue or [email](mailto:girlscriptblr@gmail.com), with the maintainers of this repository to successfully complete the tasks.
 
 - [Yajushi Srivastava](https://github.com/yajushiSri)
 - [Bhanu Pratap](https://github.com/ibhanu)
