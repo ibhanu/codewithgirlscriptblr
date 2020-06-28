@@ -12,7 +12,7 @@ If you are starting your journey in Free and Open Source Software Development, t
 
 We have a wide range of problems from easy, medium, and hard levels for you to solve. The problem statements are independent of any technology stacks, so you can focus on the underlying concepts. 
 
-Follow the guidelines mentioned in Contribution.MD file, and "Let's Code for Freedom".
+Follow the guidelines mentioned in [Contributing.MD](CONTRIBUTING.md) file, and "Let's Code for Freedom".
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ Follow the guidelines mentioned in Contribution.MD file, and "Let's Code for Fre
 ## Note
 
 Since you are here, you should most definitely consider joining us on this ride. If you still have any doubts, listen to Richard Stallman's perspective on [Free software, free society](https://www.tedxgeneva.net/talks/richard-stallman-free-software-free-society/)
-Follow the guidelines mentioned in CONTRIBUTING.md(CONTRIBUTING.md) file, and "Let's Code for Freedom".
+Follow the guidelines mentioned in [CONTRIBUTING.md](CONTRIBUTING.md) file, and "Let's Code for Freedom".
 
 
 ## Resources
