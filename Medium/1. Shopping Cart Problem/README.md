@@ -42,7 +42,7 @@ In this section, `GadgetifyWithGSBlr` allows the customer to enter details as pe
   | <= 20 KM | Rs. 30 |
   | <= 50 KM | Rs. 60 |
   | > 50 KM | No delivery |
-- The bill should show the total amount saved by the user if he/she bought any discount products.
+- The bill should show the total amount saved by the user if he/she bought any discounted products.
 - The bill should contain all the details provided by the user.
 - The bill should contain the shop details as well as the billing date and time.
 
