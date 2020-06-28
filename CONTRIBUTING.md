@@ -4,7 +4,7 @@
 
 - **Fork this repo**: You'll see a Fork button on the top right against the name of this repository. This creates an identical copy of this repository and adds it to your repositories.
 
-[Fork Example](assets/images/fork.png)
+![Fork Example](assets/images/fork.png)
 
 - **Open the forked repository**: Navigate to your profile find the repository
 
