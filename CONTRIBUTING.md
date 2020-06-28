@@ -1,6 +1,4 @@
-# Contributing to
-
-# CodeWithGirlscriptBangalore
+# Contributing to CodeWithGirlscriptBangalore
 
 ## Follow the steps below to get started right away!
 
@@ -49,10 +47,12 @@ Image will be added soon
   - [Irshad Ansari](https://github.com/irshadjsr21)
 
     If there are any changes suggested by the reviewers, do make the same and follow to steps to update:
-
     commit the changes, using command: `git commit -m 'Commit Message'`.
+
     rebase the branch, using command: `git rebase master`.
+
     squash the commits, using command: `git stash`.
+
     push the changes, using command: `git push origin <your-branch-name>`.
 
 The PR with correct and optimised solution, which satisfies the deadline criteria, will be merged soon😄
