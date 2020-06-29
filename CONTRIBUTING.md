@@ -20,7 +20,7 @@
 
 - **Do follow proper naming conventions**: The branch name should be relevant to the problem statement while submitting the solution(refer to the example below)
 
-  - **Example**: If you want to create a pull request in the Shopping Cart Problem - Easy, your branch name can be ‘<your name>\_ShoppingCartEasy’.
+  - **Example**: If you want to create a pull request in the Shopping Cart Problem - Easy, your branch name can be '<your_name>_ShoppingCartEasy'.
 
 - **Update the changes to repo**: Add your solution in the new branch. The solution must be in a specified format. Your code should be inside the SOLUTIONS folder of the respective problem statement. The codes/files should be inside a single folder following specific naming convention. The folder name should be your name.
   - Root Folder
@@ -29,7 +29,7 @@
         - `<Your solution file>`
 - **To add the file(s)** , use the following CLI command
 
-  `git add .`
+  `git add `
 
 - **Commit the file**: For locally cloned repository, use the following CLI command to commit your file.
 
@@ -52,6 +52,8 @@
   - [Yati Padia](https://github.com/yati1998)
   - [Irshad Ansari](https://github.com/irshadjsr21)
 
+[![](https://sourcerer.io/fame/yajushiSri/girlscript-blr/codewithgirlscriptblr/images/0)](https://sourcerer.io/fame/yajushiSri/girlscript-blr/codewithgirlscriptblr/links/0)[![](https://sourcerer.io/fame/yajushiSri/girlscript-blr/codewithgirlscriptblr/images/1)]
+
   If there are any changes suggested by the reviewers, do make the same and follow to steps to update:
 
   - commit the changes, using command: `git commit -m 'Commit Message'`.
@@ -61,9 +63,8 @@
 
 The PR with correct and optimised solution, which satisfies the deadline criteria, will be merged soon😄
 
-If you have successfully followed these steps, you're one step closer to being a **NEOPHYTE**, **EXPLORER** or **AFICIONADO**.🥳 But don't stop, continue making contributions and improve your chances every month!
-
-Let's build a strong community of kind developers! 👭👫👬
+> If you have successfully followed these steps, you're one step closer to being a **NEOPHYTE**, **EXPLORER** or **AFICIONADO**.🥳 But don't stop, continue making contributions and improve your chances every month!
+> Let's build a strong community of kind developers! 👭👫👬
 
 To know more about the program and it's guidelines do check [README.md](README.md) file.
 
